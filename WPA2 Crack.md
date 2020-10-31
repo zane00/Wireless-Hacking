@@ -26,7 +26,7 @@ Per installare `aircrack-ng` è necessario digitare il seguente comando\
 
 ## Cracking a Wi-Fi Network
 
-Iniziamo mostrando tutte le interfacce che supportano la monitor mode\
+Iniziamo mostrando tutte le interfacce che supportano la monitor mode
 
 `airmon-mg`
 
