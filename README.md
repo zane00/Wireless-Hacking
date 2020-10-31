@@ -6,5 +6,4 @@ Verrà utilizzata come archivio delle mie conoscenze ed eventualmente come fonte
 ***ATTENZIONE***
 ***Tutte le tecniche esposte sono penalmemte perseguibili. L'autore ne approva la lettura per puro scopo informativo ma disapprova qualsiasi utilzzo improprio***
 
-> I wasn't a hacker for the money, and it wasn't to cause damage.\ 
-Kevin Mitnick.
+> I wasn't a hacker for the money, and it wasn't to cause damage.
