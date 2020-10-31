@@ -13,7 +13,7 @@ Dal 2018 è disponibile anche il protocollo WAP3.
 ***Il seguente articolo è a puro scopo informativo e il suo contenuto non deve essere utilizzato per alcuna attività
 illegale.***
 
-***L'autore non è responsabile di alcuna attività malevole causata dalla lettura di questo post e ne prende le distanze.***
+***L'autore non è responsabile di alcuna attività malevola causata dalla scorretta interpretazione di questo post.***
 
 ## Introduzione
 
