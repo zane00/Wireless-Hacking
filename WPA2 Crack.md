@@ -21,12 +21,13 @@ Prima di iniziare è necessario chiarire che la piattaforma da cui verranno invi
 sono i seguenti:
   * Aircrack-ng
 
-Per installare *aircrack-ng* è necessario digitare il seguente comando\
+Per installare `aircrack-ng` è necessario digitare il seguente comando\
 `sudo apt-get install aircrack-ng`
 
 ## Cracking a Wi-Fi Network
 
 Iniziamo mostrando tutte le interfacce che supportano la monitor mode\
+
 `airmon-mg`
 
 Da questo punto in poi utilizzeremo l'interfaccia _wlan0_.
