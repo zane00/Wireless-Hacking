@@ -85,12 +85,12 @@ Se la password sarà contenuta nel file `passwordlist.txt`, john non dovrebbe im
 
 ## Letture consigliate
 
-Ci tengo a citare alcune pagine da cui ho preso spunto per la scrittura del seguente articolo e altre in cui è possibile approfondire alcuni argomenti citati nel seguente documento.\
- * [Crack WPA/WPA2 Wi-Fi Router with Aircrack-ng and Hashcat]: https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46
- * [Beacon frame]: https://en.wikipedia.org/wiki/Beacon_frame
- * [Standard IEEE 802.11 e 4-way handshake]: https://it.wikipedia.org/wiki/IEEE_802.11i
- * [Airodump-ng]: https://www.aircrack-ng.org/doku.php?id=airodump-ng
- * [Cracking WPA-PSK/WPA2-PSK with John the Ripper]: https://openwall.info/wiki/john/WPA-PSK
- * [Cracking WPA/WPA2 with hashcat]: https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2
- * [Converting .cap in .hccap]: https://stuffjasondoes.com/2018/07/18/converting-aircrack-ng-hashes-to-hccapx-format-and-cracking-with-hashcat/
+Ci tengo a citare alcune pagine da cui ho preso spunto per la scrittura del seguente articolo e altre in cui è possibile approfondire alcuni argomenti citati nel seguente documento.
+ * Crack WPA/WPA2 Wi-Fi Router with Aircrack-ng and Hashcat: https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46
+ * Beacon frame: https://en.wikipedia.org/wiki/Beacon_frame
+ * Standard IEEE 802.11 e 4-way handshake: https://it.wikipedia.org/wiki/IEEE_802.11i
+ * Airodump-ng: https://www.aircrack-ng.org/doku.php?id=airodump-ng
+ * Cracking WPA-PSK/WPA2-PSK with John the Ripper: https://openwall.info/wiki/john/WPA-PSK
+ * Cracking WPA/WPA2 with hashcat: https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2
+ * Converting .cap in .hccap: https://stuffjasondoes.com/2018/07/18/converting-aircrack-ng-hashes-to-hccapx-format-and-cracking-with-hashcat/
 
