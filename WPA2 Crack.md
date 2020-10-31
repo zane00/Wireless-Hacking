@@ -51,7 +51,7 @@ Necessario ricordarsi il MAC BSSID e il numero del canale che utilizza (`CH`) de
 
 I protocolli WPA e WPA2 utilizzano un 4-way handshake per autenticare i disponsitivi nella rete.
 Viene effettuato ogni volta che un dispositivo si connette alla rete.
-Utliizzando `airodump-ng` procediamo a catturare l'handshake andando a digitare il seguente comando:
+Utlizzando `airodump-ng` procediamo a catturare l'handshake andando a digitare il seguente comando:
 
 `airodump -ng -c x -bssid XX:XX:XX:XX:XX:XX -w . mon0`
 
@@ -59,13 +59,13 @@ Facciamo un po' di chiarezza sui flag utilizzati:
 -c e -bssid permettono di indicare il canale e il BSSID trovati in precedenza.
 -w permette di salvare l'output contenente il pacchetto catturato
 
-Ora sarà necessario aspettare finchè non sarà catturato l'handshake.
-Dovresti vedere qualcosa di simile a `[WPA handshake: xx:xx:xx:xx:xx:xx]` in alto a destra del tuo monitor.
-Terminando il processo di `airodump-ng` e recandosi presso la cartella di output dovremmo trovare un file con estensione `.cap`.
+Ora sarà necessario aspettare fino alla cattura dell'handshake.
+Dovremmo vedere qualcosa di simile a `[WPA handshake: xx:xx:xx:xx:xx:xx]` in alto a destra del monitor.
+Terminato il processo di `airodump-ng`,  presso la cartella di output ci sarà un file con estensione `.cap`.
 
 ### Crack della password con John the Ripper
 
-L'utlimo step è quello di crackare la password del router.
+L'ultimo step è quello di crackare la password del router.
 D'ora in poi utilizzeremo il tool `John the Ripper` ma è possibile svolgere questo passo anche tramite `hashcat`.
 
 Per prima cosa è necessario convertire il formato del file da `.cap` a `.hccap` tramite `cap2hccapx`:\
