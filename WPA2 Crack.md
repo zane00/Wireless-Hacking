@@ -85,7 +85,7 @@ Se la password sarà contenuta nel file `passwordlist.txt`, john non dovrebbe im
 
 ## Letture consigliate
 
-Ci tengo a citare alcune pagine da cui ho preso spunto per la scrittura del seguente articolo e altre in cui è possibile approfondire alcuni argomenti citati nel seguente documento.
+Ci tengo a citare alcune pagine da cui ho preso spunto per la scrittura del seguente articolo e altre in cui è possibile approfondire alcuni argomenti citati nel documento.
  * Crack WPA/WPA2 Wi-Fi Router with Aircrack-ng and Hashcat: https://medium.com/@brannondorsey/crack-wpa-wpa2-wi-fi-routers-with-aircrack-ng-and-hashcat-a5a5d3ffea46
  * Beacon frame: https://en.wikipedia.org/wiki/Beacon_frame
  * Standard IEEE 802.11 e 4-way handshake: https://it.wikipedia.org/wiki/IEEE_802.11i
