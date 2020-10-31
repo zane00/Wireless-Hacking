@@ -21,4 +21,6 @@ Prima di iniziare è necessario chiarire che la piattaforma da cui verranno invi
 sono i seguenti:
   * Aircrack-ng
 
-Per installare *aircrack-ng* è necessario digitare il seguente comando:
+Per installare *aircrack-ng* è necessario digitare il seguente comando
+`sudo apt-get install aircrack-ng`
+
