@@ -69,6 +69,7 @@ L'ultimo step è quello di crackare la password del router.
 D'ora in poi utilizzeremo il tool `John the Ripper` ma è possibile svolgere questo passo anche tramite `hashcat`.
 
 Per prima cosa è necessario convertire il formato del file da `.cap` a `.hccap` tramite `cap2hccapx`:\
+
 `cap2hccapx file.cap converted-file.hccap`
 
 Possibile la traduzione online tramite i seguenti link:
