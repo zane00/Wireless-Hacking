@@ -68,7 +68,7 @@ Terminato il processo di `airodump-ng`,  presso la cartella di output ci sarà u
 L'ultimo step è quello di crackare la password del router.
 D'ora in poi utilizzeremo il tool `John the Ripper` ma è possibile svolgere questo passo anche tramite `hashcat`.
 
-Per prima cosa è necessario convertire il formato del file da `.cap` a `.hccap` tramite `cap2hccapx`:\
+Per prima cosa è necessario convertire il formato del file da `.cap` a `.hccap` tramite `cap2hccapx`:
 
 `cap2hccapx file.cap converted-file.hccap`
 
@@ -81,7 +81,7 @@ Utilizzando il tool `hccap2john` la sintassi è la seguente:\
 `hccap2john converted-file.hccap > crackme`
 
 Andiamo quindi ad utlizzare `john` per la vera e propria operazione di crack:\
-`./john -w = passwordlist.txt -form = wpaspk-opencl crackme`
+`./john -w=passwordlist.txt -form=wpapsk-opencl crackme`
 
 Se la password sarà contenuta nel file `passwordlist.txt`, john non dovrebbe impiegare troppo tempo per trovarla e stamparla in console.
 
