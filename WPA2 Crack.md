@@ -32,7 +32,7 @@ Iniziamo mostrando tutte le interfacce che supportano la monitor mode
 
 Da questo punto in poi utilizzeremo l'interfaccia _wlan0_.
 
-`airmong-ng start wlan0`
+`airmon-ng start wlan0`
 
 Eseguendo `iwconfig` troveremo quindi l'interfaccia _wlan0_ tra quelle elencate.
 Solitamente è presentata tramite la stringa `mon0` o `wlan0mon`.
